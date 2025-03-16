@@ -5,7 +5,7 @@
 
 | No | Nama                         | NIM           |
 |----|------------------------------|--------------|
-| 1  | Berliani Utama               | 2208107010082 |
+| 1  | Berliani Utami               | 2208107010082 |
 | 2  | Raihan Firyal                | 2208107010084 |
 | 3  | Riska Haqika Situmorang      | 2208107010086 |
 
