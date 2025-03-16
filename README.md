@@ -187,12 +187,6 @@ API ini adalah REST API sederhana menggunakan Node.js dan Express.js untuk menge
 
 Server berjalan pada port 3000 dan menangani berbagai request HTTP, seperti GET, POST, PUT, dan DELETE. API ini juga dilengkapi dengan error handling dan fitur tambahan seperti sorting, filtering, dan pagination dalam pencarian karakter.
 
-## Memulai
-
-1. Clone repository
-2. Install dependencies: `npm install`
-3. Jalankan server: `npm start`
-4. Akses API di `http://localhost:3000`
 
 ## Kesimpulan
 
