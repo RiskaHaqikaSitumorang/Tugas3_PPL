@@ -1,6 +1,16 @@
+
 # Tugas3_PPL
 
-#instruksi project 3 PPL
+## Kelompok 6
+
+| No | Nama                         | NIM           |
+|----|------------------------------|--------------|
+| 1  | Berliani Utama               | 2208107010082 |
+| 2  | Raihan Firyal                | 2208107010084 |
+| 3  | Riska Haqika Situmorang      | 2208107010086 |
+
+
+# instruksi project 3 PPL
 
 ## Sistem API Sederhana
 
