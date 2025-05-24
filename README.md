@@ -51,8 +51,8 @@ API ini menggunakan file JSON sebagai penyimpanan data sederhana dan dilengkapi 
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/username/comic-manager-api.git
-cd comic-manager-api
+git clone https://github.com/RiskaHaqikaSitumorang/Tugas3_PPL.git
+cd Tugas3_PPL
 ```
 
 2. Install dependencies:
